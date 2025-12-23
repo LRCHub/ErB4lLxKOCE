@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "childish",
+  "base_artist": "ネオンと無重力",
+  "createdAt": "2025-12-23T14:57:21.947793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Go Childish",
+      "artist": "Cartoons",
+      "has_synced": true,
+      "path": "select/01_Let's_Go_Childish_Cartoons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stranded (feat. Childish Major)",
+      "artist": "Beam",
+      "has_synced": true,
+      "path": "select/02_Stranded_(feat._Childish_Major)_Beam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STRANDED (feat. Childish Major & Adam Feeney)",
+      "artist": "BEAM",
+      "has_synced": true,
+      "path": "select/03_STRANDED_(feat._Childish_Major_&_Adam_Feeney)_BEAM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Favorite Song (feat. Childish Gambino)",
+      "artist": "Chance the Rapper feat. Childish Gambino",
+      "has_synced": true,
+      "path": "select/04_Favorite_Song_(feat._Childish_Gambino)_Chance_the_Rapper_feat._Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Favorite Song (ft. Childish Gambino)",
+      "artist": "Chance The Rapper",
+      "has_synced": true,
+      "path": "select/05_Favorite_Song_(ft._Childish_Gambino)_Chance_The_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Same Ol' Story (feat. Kid Ink, Schoolboy Q, Cory Gunz & Childish Gambino)",
+      "artist": "DJ Drama",
+      "has_synced": true,
+      "path": "select/06_Same_Ol'_Story_(feat._Kid_Ink,_Schoolboy_Q,_Cory_Gunz_&_Childish_Gambino)_DJ_Drama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do Or Die (ft Childish Gambino)",
+      "artist": "Flux Pavilion",
+      "has_synced": true,
+      "path": "select/07_Do_Or_Die_(ft_Childish_Gambino)_Flux_Pavilion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Break Your Heart Right Back (Feat. Childish Gambino)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_Break_Your_Heart_Right_Back_(Feat._Childish_Gambino)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lava Glaciers (feat. Childish Gambino)",
+      "artist": "Riff Raff feat. Childish Gambino",
+      "has_synced": true,
+      "path": "select/09_Lava_Glaciers_(feat._Childish_Gambino)_Riff_Raff_feat._Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Childish Perversions",
+      "artist": "The Mothers Of Invention",
+      "has_synced": false,
+      "path": "select/10_Childish_Perversions_The_Mothers_Of_Invention.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Childish Perversions",
+      "artist": "Frank Zappa / The Mothers of Invention",
+      "has_synced": false,
+      "path": "select/11_Childish_Perversions_Frank_Zappa___The_Mothers_of_Invention.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monster (feat. Childish Gambino)",
+      "artist": "21 Savage",
+      "has_synced": true,
+      "path": "select/12_Monster_(feat._Childish_Gambino)_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black Qualls (feat. Steve Lacy, Steve Arrington & Childish Gambino)",
+      "artist": "Thundercat",
+      "has_synced": true,
+      "path": "select/13_Black_Qualls_(feat._Steve_Lacy,_Steve_Arrington_&_Childish_Gambino)_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Childish Perversions",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/14_Childish_Perversions_Frank_Zappa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "childish",
+      "artist": "ネオンと無重力",
+      "has_synced": false,
+      "path": "select/pl_01_childish_ネオンと無重力.txt"
+    }
+  ]
+}
